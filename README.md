@@ -7,11 +7,10 @@ Flowchart
 ![image](https://github.com/Jetch123/rock-paper-scissors-game-main/assets/67650698/8b7d0fc6-df61-47a1-9623-89b65c2cd824)
 
 Image from game - Before choice
+(https://github.com/Jetch123/rock-paper-scissors-game-main/assets/67650698/ecb3fc45-3a99-4f0a-8972-c30683484e59)
 
-![image](https://github.com/Jetch123/rock-paper-scissors-game-main/assets/67650698/b57bff6a-3799-48ed-a41f-a4d83ffe2e20)
+
 
 Image from game - After choice
-
-![image](https://github.com/Jetch123/rock-paper-scissors-game-main/assets/67650698/44fd8796-5d0f-4843-af16-c6a73c853c74)
-
+(https://github.com/Jetch123/rock-paper-scissors-game-main/assets/67650698/6bd812bd-748a-4b3d-9093-10c766590057)
 
